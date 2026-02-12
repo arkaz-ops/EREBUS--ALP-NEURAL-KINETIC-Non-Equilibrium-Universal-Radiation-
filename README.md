@@ -15,7 +15,8 @@ EREBUS-ALP: NEURAL-KINETIC Framework
 
 C[f_1, f_2, f_3] = \frac{1}{2E_k} \int d\Pi_1 d\Pi_2 d\Pi_3 (2\pi)^4 \delta^{(4)}(P_1 + P_2 - P_3 - K) |M|^2 f_1 f_2 (1 \mp f_3)
 Where |M|^2 is the channel-specific Matrix Element, consistently propagated into cosmological observables using vectorized momentum grids.
-🔱 Cosmological Bounds & Forecasts
+
+Cosmological Bounds & Forecasts
 The engine is calibrated against state-of-the-art cosmological data, providing 95% CL limits:
 ALP-Lepton Constraints: f_a > 1.63 \times 10^6 GeV (e), 9.41 \times 10^6 GeV (\mu), 8.06 \times 10^4 GeV (\tau).
 ALP-Photon Coupling: g_{a\gamma} < 1.98 \times 10^{-8} GeV$^{-1}$.
